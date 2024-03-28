@@ -7,7 +7,7 @@ I am a web development student (*full stack*) studying in a skills bootcamp run 
 There will be a portfolio available full of impressive projects, so watch this space [^1]
 [^1]: Coming soon
 
-Here is a my [LinkedIn](https://www.linkedin.com/in/alexander-szwabowicz/), please feel free to contact me
+Here is my [LinkedIn](https://www.linkedin.com/in/alexander-szwabowicz/), please feel free to contact me
 
 ![Image of a construction sign with the text 'under construction'](tempSign.png)
 
