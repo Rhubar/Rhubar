@@ -9,7 +9,7 @@ There will be a portfolio available full of impressive projects, so watch this s
 
 Here is a my [LinkedIn](https://www.linkedin.com/in/alexander-szwabowicz/), please feel free to contact me
 
-
+![Image of a construction sign with the text 'under construction'](tempSign.png)
 
 <!--
 **Rhubar/Rhubar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
