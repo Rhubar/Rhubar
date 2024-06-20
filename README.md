@@ -7,9 +7,10 @@ I am a web development student (*full stack*) studying in a skills bootcamp run 
 There will be a portfolio available full of impressive projects, so watch this space [^1]
 [^1]: Coming soon
 
+My current project is the Interactive Number Theory Playground, available in the respository int
+
 Here is my [LinkedIn](https://www.linkedin.com/in/alexander-szwabowicz/), please feel free to contact me
 
-![Image of a construction sign with the text 'under construction'](tempSign.png)
 
 <!--
 **Rhubar/Rhubar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
